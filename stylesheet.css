@@ -204,6 +204,8 @@ p {
 
 #intro ul {
   display: table;
+  font: inherit;
+  font-size: 1.2rem;
   margin: 0 auto;
   padding-left: 1.5rem;
   text-align: left;
